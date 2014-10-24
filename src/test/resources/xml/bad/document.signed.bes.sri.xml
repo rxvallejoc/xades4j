@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><collection id="comprobante">
+	<album>
+		<title>Questions, unanswered</title>
+		<artist>Steve and the flubberblubs</artist>
+		<year>1989</year>
+		<t:tracks xmlns:t="http://test.xades4j/tracks">
+			<t:song length="4:05" tracknumber="1">
+				<t:title>What do you know?</t:title>
+				<t:artist>Steve and the flubberblubs</t:artist>
+				<t:lastplayed>2006-10-17-08:31</t:lastplayed>
+			</t:song>
+			<t:song length="3:45" tracknumber="2">
+				<t:title>Who do you know?</t:title>
+				<t:artist>Steve and the flubberblubs</t:artist>
+				<t:lastplayed>2006-10-17-08:35</t:lastplayed>
+			</t:song>
+			<t:song length="5:14" tracknumber="3">
+				<t:title>When do you know?</t:title>
+				<t:artist>Steve and the flubberblubs</t:artist>
+				<t:lastplayed>2006-10-17-08:39</t:lastplayed>
+			</t:song>
+			<t:song length="4:19" tracknumber="4">
+				<t:title>Do you know?</t:title>
+				<t:artist>Steve and the flubberblubs</t:artist>
+				<t:lastplayed>2006-10-17-08:44</t:lastplayed>
+			</t:song>
+		</t:tracks>
+	</album>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-94b4c0e1-af75-4255-8d16-a8ab4f8e499a">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/>
+<ds:Reference Id="xmldsig-94b4c0e1-af75-4255-8d16-a8ab4f8e499a-ref0" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>ZIzsDZYORKeukOjU1BzEJf9XYh9Cl7kVp4dmiUna38Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-94b4c0e1-af75-4255-8d16-a8ab4f8e499a-signedprops">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/>
+<ds:DigestValue>3wpEfa5nWs/P0oDIQlRTKJ+fayaBdiNYcmgYi5EocPw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue id="xmldsig-94b4c0e1-af75-4255-8d16-a8ab4f8e499a-sigvalue">
+mKxYs0vy1Z03sfxEFiWDD3lnMQykeaB0gyCepHIazX7yFd/WR6Wwk10xSUMzTDwBntzqTw4cuDk1
+vnmJDw10IpmqLSdi1aukUKSx9NZIHQrLUWR1Rm/Kbu7/vzOiQvEfejtvmG6J7CKUZgWB25DYfv+A
+4BGLr9bY6LXoKqkqLD4/3FQRyLDYVgTgZZoI1nkyc+kU6BwGLLowijIcomdI1IvcfUUrdDZKOyJ3
+9rYHHBUcrGZ5kstJqM7rXQPKTEmvbLyPcj7ax9CguaAZ7MPItodBgx19JjTpWFfWino8c6nNc63V
+SOUStcv+K4J4fBBS/qqU3pX9XX/Oub97C173Nw==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKPjCCCCagAwIBAgIETkA/oTANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTEyMDIwMTE2MzQzOVoXDTE0MDIwMTE3MDQz
+OVowgbUxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE5MBEGA1UEBRMKMDAwMDAxMDE3MTAkBgNVBAMTHVJPRFJJR08gWEFWSUVS
+IFZBTExFSk8gQ0VERU5PMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAySj1vc35Nys0
+mOkLutoBBGKS56cVf2z4fjWB9ErfqC4RA8BGv9+RGHXBTJm9U9Bi0fVjQvREtDjic6AKrxIsjGZ1
+HaY8cw/7tP9Z4+V0NqXGNReYLYwgnGoBoA2X+NP5qpZtNvORFJOcL2KxR9L4V+yPr5xp14AJy3p2
+a5kgizZDnB8kFC7GRAuaxvTWqzIne3CknwdtbRKLW2zxw23KZEqNMTDm8gth4eQwUVOGaJIhe+vZ
+WfQo7S0l5pA4TzqhzLNU1N6CGGUD8Jmm/V633GYgIo9kHxuLMqipfkkcARb6k2ZTw5GOdwZBT5Ir
+YEblSoltDGPS6G36m+WJvPhJUQIDAQABo4IFZjCCBWIwCwYDVR0PBAQDAgeAMGoGA1UdIARjMGEw
+XwYLKwYBBAGCqDsCAwEwUDBOBggrBgEFBQcCARZCaHR0cDovL3d3dy5lY2kuYmNlLmVjL3BvbGl0
+aWNhLWNlcnRpZmljYWRvL2Z1bmNpb25hcmlvLXB1YmxpY28ucGRmMIGRBggrBgEFBQcBAQSBhDCB
+gTA+BggrBgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjE3MTYzNjgyNTEwHgYKKwYBBAGCqDsD
+AgQQEw5ST0RSSUdPIFhBVklFUjAXBgorBgEEAYKoOwMDBAkTB1ZBTExFSk8wFgYKKwYBBAGCqDsD
+BAQIEwZDRURFTk8wLAYKKwYBBAGCqDsDBQQeExxFU1BFQ0lBTElTVEEgMSBERSBURUNOT0xPR0lB
+MCsGCisGAQQBgqg7AwYEHRMbU0VSVklDSU8gREUgUkVOVEFTIElOVEVSTkFTMEcGCisGAQQBgqg7
+AwcEORM3QVYgNiBERSBESUNJRU1CUkUgNjMxNzQgRU5UUkUgQVYgR0FMTyBQTEFaQSBZIFNBQkFO
+SUxMQTAZBgorBgEEAYKoOwMIBAsTCTAyMzQ2NDg4MTAVBgorBgEEAYKoOwMJBAcTBVF1aXRvMBcG
+CisGAQQBgqg7AwwECRMHRUNVQURPUjAdBgorBgEEAYKoOwMLBA8TDTE3NjAwMTMyMTAwMDEwKwYK
+KwYBBAGCqDsDCgQdExtTRVJWSUNJTyBERSBSRU5UQVMgSU5URVJOQVMwGAYKKwYBBAGCqDsDMwQK
+EwhIQVJEV0FSRTAfBgNVHREEGDAWgRRyeHZhbGxlam9Ac3JpLmdvYi5lYzCCAdsGA1UdHwSCAdIw
+ggHOMIIByqCCAcagggHChoHTbGRhcDovL2JjZXFsZGFwc3VicDEuYmNlLmVjL2NuPUNSTDksY249
+QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGw9UVVJVE8sb3U9RU5USURBRCUy
+MERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JNQUNJT04tRUNJQkNFLG89QkFOQ08lMjBD
+RU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFz
+ZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lfYmNlX2VjX2NybGZpbGVjb21iLmNybKSB
+szCBsDELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1
+BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAM
+BgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMQ0wCwYD
+VQQDEwRDUkw5MCsGA1UdEAQkMCKADzIwMTIwMjAxMTYzNDM5WoEPMjAxNDAyMDExNzA0MzlaMB8G
+A1UdIwQYMBaAFBj58PvmMhyZZjkqyouyaX1JJ7/OMB0GA1UdDgQWBBRObOA3UF9vQgBgjSW8OE1G
+uGgq6TAJBgNVHRMEAjAAMBkGCSqGSIb2fQdBAAQMMAobBFY4LjEDAgSwMA0GCSqGSIb3DQEBCwUA
+A4ICAQArIfJmcmi8rK8Z9wXZDBpmMPg6ic8N6PowV0/uiJbQ6eEvWKBly4UptQARlHGvjX6u9AJf
+TQsGYVEwCsj97l00ptShjhmecMbLcKzPbRa/iztWWb1AHfTGCGD5Dz3Zjfhcl8z0j2wl01zL1Smy
+NFpl6nCaA7gBnSd2WbJLBEjyakk1kfaz4NOFYzv9d1EHaOIhCHzYewozjERJNWcX0LiE4fDSyA2j
+2JHMbhcy4WpYC7hf4h1KzLdhj7GKb/k2ejyoBWFz/o5YqjTrJyufKgiULTGfZ4VTKK64fiCbO0Gc
+vcP6disX4lc9zSnN5eMOn+95WGuEgkevCDb1LjfF8aaT2XFDwYNIXh/YFzLojwJj9g77Q+h+m3fO
+aGIhq0CM3Xl+4AbSE2XDu/fHALLyfEnj8rnmXR3LkHSP52KUD+8i3+FVALRAT2v0kWy1pZEEvO6I
+QYCrS6H4BolcIo8NIUCvvlJbIxz/DaAe0E/ygEVVm1DlqnklBhCwEFNDvL8PUCPONNugfeUfFLXS
+clMfBIoU30XvsKIxSysU6ZBuTfKeqGGEBAi7UBAvLrcCyCdl1Zdmsw5Au5vzX5DLta12+5bALOnU
+H33AUaIATJDMpDF6fM1Xpde2lFzl5m3T57q2peD7gRlErNbiCwOtM9l4m7cHxlWb0Ri3D7ZmKkn3
+FTGTpg==
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-94b4c0e1-af75-4255-8d16-a8ab4f8e499a"><xades:SignedProperties id="xmldsig-94b4c0e1-af75-4255-8d16-a8ab4f8e499a-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2013-05-03T16:08:20.091-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>NLZQhoje2+gvTS+urIEJS7E6cmmOg4kONU6MRn/GiWc=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1312833441</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-94b4c0e1-af75-4255-8d16-a8ab4f8e499a-ref0"><xades:Description>Firma SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat><xades:CommitmentTypeIndication><xades:CommitmentTypeId><xades:Identifier>http://uri.etsi.org/01903/v1.2.2#ProofOfApproval</xades:Identifier><xades:Description>Indicates that the signer has approved the content of the signed data object</xades:Description></xades:CommitmentTypeId><xades:AllSignedDataObjects/></xades:CommitmentTypeIndication><xades:CommitmentTypeIndication><xades:CommitmentTypeId><xades:Identifier>http://uri.etsi.org/01903/v1.2.2#ProofOfCreation</xades:Identifier><xades:Description>Indicates that the signer has created the signed data object (but not necessarily approved, nor sent it)</xades:Description></xades:CommitmentTypeId><xades:ObjectReference>#xmldsig-94b4c0e1-af75-4255-8d16-a8ab4f8e499a-ref0</xades:ObjectReference></xades:CommitmentTypeIndication></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature></collection>
